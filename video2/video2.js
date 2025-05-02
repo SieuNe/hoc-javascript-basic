@@ -1,1 +1,1 @@
-console.log('Hell World')
+alert('Hell World')
